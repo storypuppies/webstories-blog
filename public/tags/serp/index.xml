@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SERP on блог</title>
+    <link>https://blog-amp-stories.web.app/tags/serp/</link>
+    <description>Recent content in SERP on блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-amp-stories.web.app/tags/serp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Панели SERP</title>
+      <link>https://blog-amp-stories.web.app/post/serp/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-amp-stories.web.app/post/serp/</guid>
+      <description>&lt;p&gt;Еще лет десять назад UX поисковой выдачи Google  представлял собой абсолютно одинаковые ссылки на внешние сайты.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
