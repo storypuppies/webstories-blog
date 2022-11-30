@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on блог</title>
-    <link>https://blog-amp-stories.web.app/categories/</link>
+    <link>https://webstories-blog.web.app/categories/</link>
     <description>Recent content in Categories on блог</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-amp-stories.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://webstories-blog.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcase</title>
-      <link>https://blog-amp-stories.web.app/categories/showcase/</link>
+      <link>https://webstories-blog.web.app/categories/showcase/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-amp-stories.web.app/categories/showcase/</guid>
+      <guid>https://webstories-blog.web.app/categories/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMP</title>
-      <link>https://blog-amp-stories.web.app/categories/amp/</link>
+      <link>https://webstories-blog.web.app/categories/amp/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-amp-stories.web.app/categories/amp/</guid>
+      <guid>https://webstories-blog.web.app/categories/amp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UX</title>
-      <link>https://blog-amp-stories.web.app/categories/ux/</link>
+      <link>https://webstories-blog.web.app/categories/ux/</link>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-amp-stories.web.app/categories/ux/</guid>
+      <guid>https://webstories-blog.web.app/categories/ux/</guid>
       <description></description>
     </item>
     
