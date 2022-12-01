@@ -1,7 +1,7 @@
 baseurl = "https://webstories-blog.web.app/" 
 DefaultContentLanguage = "ru"
 #DefaultContentLanguage = "en"
-title = "блог"
+title = "Сторис блог"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "UA-249514012-1"
+googleAnalytics = "UA-250674992-3"
 
 [Params]
 
