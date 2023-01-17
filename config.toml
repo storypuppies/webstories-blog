@@ -1,7 +1,7 @@
 baseurl = "https://webstories-blog.web.app/" 
 DefaultContentLanguage = "ru"
 #DefaultContentLanguage = "en"
-title = "Сторис блог"
+title = "STORIES BLOG – Технология, Архитектура, Дизайн."
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
