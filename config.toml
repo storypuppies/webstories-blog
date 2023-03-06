@@ -1,6 +1,6 @@
 baseurl = "https://webstories-blog.web.app/" 
-DefaultContentLanguage = "ru"
-#DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ru"
+DefaultContentLanguage = "en"
 title = "STORIES BLOG – Технология, Архитектура, Дизайн."
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
@@ -12,6 +12,19 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 googleAnalytics = "UA-250674992-3"
+
+
+[languages]
+  [languages.en]
+    baseURL = 'https://webstories-blog.web.app/'
+    languageName = 'English'
+    title = 'In English'
+    weight = 1
+  [languages.ru]
+    baseURL = 'https://webstories-blog.web.app.ru'
+    languageName = 'Russian'
+    title = 'In Russian'
+    weight = 2
 
 [Params]
 

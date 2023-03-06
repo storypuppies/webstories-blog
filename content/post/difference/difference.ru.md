@@ -5,7 +5,7 @@ date: 2022-03-05
 tags: ["web-stories", "перевод"]
 bigimg: [{src: "images/hero.jpg", desc: "веб-истории"}]
 image:
-   post/test/images/hero.jpg
+   post/difference/images/hero.jpg
 layout: single-three-columns
 
 
